@@ -12,7 +12,7 @@
 * [重置样式](https://github.com/snowBoby/global.css)
 * [DOM](https://github.com/snowBoby/DOM)
 
-##项目
+## 项目
 * [requestAnimationFrame项目](https://github.com/snowBoby/requestAnimationFrame)
 * [vue2-elm项目](https://github.com/snowBoby/vue2-elm)
 * [nextjs-project服务端渲染项目](https://github.com/snowBoby/nextjs-project)
